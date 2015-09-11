@@ -1,6 +1,6 @@
 /*
  Elanna Grossman
- Class that uses an abstract method to interact with ArrayList of Strings.
+ Class that uses an generic method to interact with ArrayList of Strings.
  */
 
 //package program;
